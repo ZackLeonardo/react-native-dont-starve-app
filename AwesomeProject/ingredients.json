@@ -1,0 +1,103 @@
+{"items":[
+  {
+    "itemPicName": "fruits",
+    "itemName": "水果和蔬菜",
+    "itemData": [
+      {
+        "picName": "banana",
+        "name": "香蕉",
+        "ingredientsInfo": {
+          "infoPicName": "banana",
+          "infoGet": "洞穴香蕉树上摘取",
+          "infoMake": "在篝火上烤制",
+          "infoMadePicName": "bananaM",
+          "infoMadeName": "烤香蕉",
+          "life": [1, 3],
+          "hunger": [13, 13],
+          "spirit": [0, 0],
+          "shelf": [10, 6],
+        }
+      },{
+        "picName": "berry",
+        "name": "浆果",
+        "ingredientsInfo": {
+          "infoPicName": "berry",
+          "infoGet": "浆果丛处摘取",
+          "infoMake": "在篝火上烤制",
+          "infoMadePicName": "berry",
+          "infoMadeName": "手拆浆果",
+          "life": [0, 1],
+          "hunger": [9, 13],
+          "spirit": [0, 0],
+          "shelf": [6, 3],
+        }
+      },{
+        "picName": "carrot",
+        "name": "胡萝卜",
+        "ingredientsInfo": {
+          "infoPicName": "carrot",
+          "infoGet": "农产种植；野外拾取；猎杀兔人",
+          "infoMake": "在篝火上烤制",
+          "infoMadePicName": "carrotM",
+          "infoMadeName": "胡萝卜片",
+          "life": [1, 3],
+          "hunger": [13, 13],
+          "spirit": [0, 0],
+          "shelf": [10, 6],
+        }
+      },
+    ]
+  },
+  {
+    "itemPicName": "meats",
+    "itemName": "肉类和其它",
+    "itemData": [
+      {
+        "picName": "berry",
+        "name": "浆果",
+        "ingredientsInfo": {
+          "infoPicName": "berry",
+          "infoGet": "浆果丛处摘取",
+          "infoMake": "在篝火上烤制",
+          "infoMadePicName": "berry",
+          "infoMadeName": "手拆浆果",
+          "life": [0, 1],
+          "hunger": [9, 13],
+          "spirit": [0, 0],
+          "shelf": [6, 3],
+        }
+      },{
+        "picName": "berry",
+        "name": "浆果",
+        "ingredientsInfo": {
+          "infoPicName": "berry",
+          "infoGet": "浆果丛处摘取",
+          "infoMake": "在篝火上烤制",
+          "infoMadePicName": "berry",
+          "infoMadeName": "手拆浆果",
+          "life": [0, 1],
+          "hunger": [9, 13],
+          "spirit": [0, 0],
+          "shelf": [6, 3],
+        }
+      },{
+        "picName": "berry",
+        "name": "浆果",
+        "ingredientsInfo": {
+          "infoPicName": "berry",
+          "infoGet": "浆果丛处摘取",
+          "infoMake": "在篝火上烤制",
+          "infoMadePicName": "berry",
+          "infoMadeName": "手拆浆果",
+          "life": [0, 1],
+          "hunger": [9, 13],
+          "spirit": [0, 0],
+          "shelf": [6, 3],
+        }
+      },
+
+
+    ]
+  },
+
+]}

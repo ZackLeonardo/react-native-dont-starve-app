@@ -1,0 +1,43 @@
+/*
+1--list-cell;
+2--list-list-cell;
+*/
+
+{"items":[
+  {
+    "itemPicName": "roles",
+    "itemName": "角色图鉴",
+    "itemDataLoader": "require('./roles.json');",
+    "itemInfoPage": "require('./roleInfo');",
+    "itemType": 1,
+  },
+  {
+    "itemPicName": "cookBook",
+    "itemName": "菜谱图鉴",
+    "itemDataLoader": "require('./cooks.json');",
+    "itemInfoPage": "require('./cookInfo');",
+    "itemType": 1,
+  },
+  {
+    "itemPicName": "ingredients",
+    "itemName": "食材图鉴",
+    "itemDataLoader": "require('./ingredients.json');",
+    "itemInfoPage": "require('./ingredientInfo');",
+    "itemType": 2,
+  },
+  {
+    "itemPicName": "bioes",
+    "itemName": "生物图鉴",
+    "itemDataLoader": "require('./bioes.json');",
+    "itemInfoPage": "require('./bioInfo');",
+    "itemType": 2,
+  },
+  {
+    "itemPicName": "test",
+    "itemName": "test图鉴",
+    "itemDataLoader": "require('./bioes.json');",
+    "itemInfoPage": "require('./bioInfo');",
+    "itemType": 3,
+  },
+
+]}

@@ -1,0 +1,43 @@
+{"items":[
+  {
+    "picName": "foTiaoQiang",
+    "name": "佛跳墙",
+    "cookInfo": {
+      "infoPicName": "foTiaoQiang",
+      "life": 12,
+      "hunger": 150,
+      "spirit": 5,
+      "shelf": 10,
+      "material": "大肉+大肉+大肉(怪物肉)+随意\r大肉+大肉+小肉+小肉",
+      "example": "foTiaoQiang_e",
+    },
+  },
+  {
+    "picName": "dongBeiShuiJiao",
+    "name": "东北水饺",
+    "cookInfo": {
+      "infoPicName": "dongBeiShuiJiao",
+      "life": 40,
+      "hunger": 37,
+      "spirit": 5,
+      "shelf": 20,
+      "material": "高鸟蛋+小肉+蔬菜(蘑菇)+水果(浆果)\r鸟蛋+大肉+蔬菜(蘑菇)+(水果)",
+      "example": "dongBeiShuiJiao_e",
+    },
+  },
+  {
+    "picName": "miZhiKaoRou",
+    "name": "蜜汁烤肉",
+    "cookInfo": {
+      "infoPicName": "miZhiKaoRou",
+      "life": 30,
+      "hunger": 75,
+      "spirit": 5,
+      "shelf": 15,
+      "material": "大肉+小肉+小肉+蜂蜜\r大肉(怪兽肉)+大肉(猪肉)+蜂蜜+随意",
+      "example": "miZhiKaoRou_e",
+    },
+  },
+
+
+]}
